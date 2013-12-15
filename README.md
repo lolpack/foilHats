@@ -1,7 +1,7 @@
 foilHats
 ========
 
-I wanted to see if there was a correlation between aluminum sales (measured by the success of a top aluminum manufacturer) and alien sightings. Evidently there doesn't appear to be evidence to support a relationship between the two, but when has a lack of evidence stopped anyone?
+I wanted to get some familiarity with D3, so I decided to see if there was a correlation between aluminum sales (measured by the success of a top aluminum manufacturer) and alien sightings. Evidently there doesn't appear to be evidence to support a relationship between the two, but when has a lack of evidence stopped anyone?
 
 I used D3 to form and manipulate the graph. 
 
