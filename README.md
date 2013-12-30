@@ -5,4 +5,4 @@ I wanted to get some familiarity with D3, so I decided to see if there was a cor
 
 I used D3 to form and manipulate the graph. I started with an example available here: http://bl.ocks.org/1166403. 
 
-If you want to view the graph in the browser, you'll need to serve the csv file as well. I recommend <a href="http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python">python</a> for this. 
+If you want to view the graph in the browser, you'll need to serve the entire directory. I recommend <a href="http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python">python</a> for this. 
